@@ -1,2 +1,2 @@
 # Progetto-SOL
-class project Sistemi Operativi e Laboratorio AA 2022/23
+class project corso Sistemi Operativi e Laboratorio AA 2022/23
